@@ -1,5 +1,5 @@
-# chatliteio
-ChatLite.io - Real Time Node Socket.io Multi-Client Chat App!
+# ChatLite.io
+A Real Time Node Socket.io Multi-Client Chat App!
 
 # how to use on local?
   - clone the repo on local.
